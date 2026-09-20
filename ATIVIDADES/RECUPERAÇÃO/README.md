@@ -20,4 +20,5 @@ O programa calcula o consumo em kwh/mês e o custo com uma tarifa de R$ 0,75/kwh
 Fórmulas 💡
 
 consumo_mensal = (potencia * tempo_de_uso_diário * 30) / 1000
+
 custo_mensal = consumo_mensal * custo_kwh
