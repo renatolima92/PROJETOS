@@ -1,4 +1,4 @@
-# PROJETO DE CONCIENTIZAÇÃO AMBIENTAL - CONSUMO DE ÁGUA 💧
+# PROJETO DE CONSCIENTIZAÇÃO AMBIENTAL - CONSUMO DE ÁGUA 💧
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
